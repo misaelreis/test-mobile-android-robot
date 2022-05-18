@@ -17,5 +17,15 @@
 - Atualize as capabilities do appium de acordo com a sua máquina
 - Execute o emulador do Android Studio
 - Execute o Appium Server
-- No terminal execute o comando <b>robot -d ./log tests</b>
-- No terminal execute o comando <b>pip install<b>
+- No terminal execute o comando 
+```
+pip install
+```
+- No terminal execute o comando 
+```
+pip install robotframework
+```
+- No terminal execute o comando 
+```
+robot -d ./log tests
+```
