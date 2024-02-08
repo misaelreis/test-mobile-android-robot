@@ -27,5 +27,9 @@ pip install robotframework
 ```
 - No terminal execute o comando 
 ```
+pip install robotframework-appiumlibrary
+```
+- No terminal execute o comando 
+```
 robot -d ./log tests
 ```
